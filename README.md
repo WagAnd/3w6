@@ -14,7 +14,7 @@ Using homerow mods [homerow mods](https://precondition.github.io/home-row-mods) 
 
 Amount | Component
 -------|----------
-1 set    | PCB and Plates (directly from Weteor in a small group buy)
+1 set    | PCB and Plates (directly from [Weteor](https://github.com/weteor/3W6) in a small group buy)
 36       | Kailh Low Profile Choc Switches - Silver (40gf, Linear)
 32       | Blank MBK Choc Low Profile Keycaps - 1u
 2        | Blank MBK Choc Low Profile Keycaps - 1u homing
