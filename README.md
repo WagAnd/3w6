@@ -12,6 +12,17 @@ _created with http://keyboard-layout-editor.com/_
 
 ## Build Process
 
+Amount | Component
+-------|----------
+1 set    | PCB and Plates (directly from Weteor in a small group buy)
+36       | Kailh Low Profile Choc Switches - Silver (40gf, Linear)
+32       | Blank MBK Choc Low Profile Keycaps - 1u
+2        | Blank MBK Choc Low Profile Keycaps - 1u homing
+2        | Blank MBK Choc Low Profile Keycaps - 1.5u
+1        | USB-C to USB-A cable (connection to PC)
+1        | USB-C to USB-C cable - 30cm (connection between halves)
+2        | adhesive neopren material to put under the board
+
 ![3w6](https://github.com/WagAnd/3w6/blob/main/images/IMG_20211017_132316.jpg)
 
 ![3w6](https://github.com/WagAnd/3w6/blob/main/images/IMG_20211017_132319.jpg)
