@@ -6,11 +6,36 @@ The 3w6 is a low profile, split ortholinear keyboard with 36 keys created by Wet
 
 ## Layout
 
-tbw
-
 ![Layout](https://github.com/WagAnd/3w6/blob/main/layout/3w6-rev2-WagAnd.jpg)
+
 _created with http://keyboard-layout-editor.com/_
 
 ## Build Process
 
-tbw
+![3w6](https://github.com/WagAnd/3w6/blob/main/images/IMG_20211017_132316.jpg)
+
+![3w6](https://github.com/WagAnd/3w6/blob/main/images/IMG_20211017_132319.jpg)
+
+![3w6](https://github.com/WagAnd/3w6/blob/main/images/IMG_20211017_140910.jpg)
+
+![3w6](https://github.com/WagAnd/3w6/blob/main/images/IMG_20211017_141532.jpg)
+
+![3w6](https://github.com/WagAnd/3w6/blob/main/images/IMG_20211017_142524.jpg)
+
+![3w6](https://github.com/WagAnd/3w6/blob/main/images/IMG_20211017_142529.jpg)
+
+![3w6](https://github.com/WagAnd/3w6/blob/main/images/IMG_20211017_143428.jpg)
+
+![3w6](https://github.com/WagAnd/3w6/blob/main/images/IMG_20211017_150057.jpg)
+
+![3w6](https://github.com/WagAnd/3w6/blob/main/images/IMG_20211017_150511.jpg)
+
+![3w6](https://github.com/WagAnd/3w6/blob/main/images/IMG_20211017_151312.jpg)
+
+![3w6](https://github.com/WagAnd/3w6/blob/main/images/IMG_20211017_151315.jpg)
+
+![3w6](https://github.com/WagAnd/3w6/blob/main/images/IMG_20211017_155143.jpg)
+
+![3w6](https://github.com/WagAnd/3w6/blob/main/images/IMG_20211017_171203.jpg)
+
+![3w6](https://github.com/WagAnd/3w6/blob/main/images/IMG_20211019_093314.jpg)
