@@ -45,8 +45,6 @@ Amount | Component
 
 ![3w6](https://github.com/WagAnd/3w6/blob/main/images/IMG_20211017_151315.jpg)
 
-![3w6](https://github.com/WagAnd/3w6/blob/main/images/IMG_20211017_155143.jpg)
-
 ![3w6](https://github.com/WagAnd/3w6/blob/main/images/IMG_20211017_171203.jpg)
 
-![3w6](https://github.com/WagAnd/3w6/blob/main/images/IMG_20211019_093314.jpg)
+![3w6](https://github.com/WagAnd/3w6/blob/main/images/IMG_20211017_155143.jpg)
