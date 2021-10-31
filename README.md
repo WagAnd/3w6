@@ -8,7 +8,7 @@ The 3w6 is a low profile, split ortholinear keyboard with 36 keys created by Wet
 
 ![Layout](https://github.com/WagAnd/3w6/blob/main/layout/3w6-rev2-WagAnd.jpg)
 
-_created with http://keyboard-layout-editor.com/_
+Using homerow mods [homerow mods](https://precondition.github.io/home-row-mods) with settings inspired from [Miryoku](https://github.com/manna-harbour/miryoku)
 
 ## Build Process
 
